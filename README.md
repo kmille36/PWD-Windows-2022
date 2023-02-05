@@ -12,3 +12,5 @@ wget https://github.com/kmille36/PWD-Windows-2022/raw/main/alpha-release ; chmod
 ```
 
 Open port 8080
+
+(guacamole: azure/azure | RDP: azureuser/WindowsPassword@001 )
