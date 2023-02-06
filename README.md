@@ -11,7 +11,7 @@ Main: https://labs.play-with-docker.com/ (guacamole)
 wget https://github.com/kmille36/PWD-Windows-2022/raw/main/alpha-release ; chmod +x alpha-release ; ./alpha-release
 ```
 
-Or: https://labs.play-with-docker.com/ (no guacamole)
+Or: https://labs.play-with-k8s.com/ (no guacamole)
 
 ``` bash
 curl -sLkO https://github.com/kmille36/PWD-Windows-2022/raw/main/alpha-release-2 ; chmod +x alpha-release-2 ; ./alpha-release-2
