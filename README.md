@@ -3,7 +3,7 @@ Under development. Testing purposes.
 
 ![image](https://user-images.githubusercontent.com/58414694/216879247-25b55257-1b63-45ab-808f-5bc1320eeb99.png)
 
-Main: https://labs.play-with-docker.com/
+Main: https://labs.play-with-docker.com/ (guacamole)
 
 (ctrl+insert copy)
 
@@ -11,7 +11,7 @@ Main: https://labs.play-with-docker.com/
 wget https://github.com/kmille36/PWD-Windows-2022/raw/main/alpha-release ; chmod +x alpha-release ; ./alpha-release
 ```
 
-Or: https://labs.play-with-k8s.com/
+Or: https://labs.play-with-docker.com/ (no guacamole)
 
 ``` bash
 curl -sLkO https://github.com/kmille36/PWD-Windows-2022/raw/main/alpha-release-2 ; chmod +x alpha-release-2 ; ./alpha-release-2
