@@ -5,8 +5,6 @@ Under development. Testing purposes.
 
 Main: https://labs.play-with-docker.com/
 
-2H: https://bit.ly/40pdXLr
-
 (ctrl+insert copy)
 
 ``` bash
@@ -18,6 +16,8 @@ Or: https://labs.play-with-k8s.com/
 ``` bash
 curl -sLkO https://github.com/kmille36/PWD-Windows-2022/raw/main/alpha-release ; chmod +x alpha-release ; ./alpha-release
 ```
+
+2H: https://bit.ly/40pdXLr
 
 Open port 8080
 
