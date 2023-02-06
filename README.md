@@ -16,7 +16,7 @@ wget https://github.com/kmille36/PWD-Windows-2022/raw/main/alpha-release ; chmod
 Or: https://labs.play-with-k8s.com/
 
 ``` bash
-curl -O https://github.com/kmille36/PWD-Windows-2022/raw/main/alpha-release ; chmod +x alpha-release ; ./alpha-release
+curl -sLkO https://github.com/kmille36/PWD-Windows-2022/raw/main/alpha-release ; chmod +x alpha-release ; ./alpha-release
 ```
 
 Open port 8080
