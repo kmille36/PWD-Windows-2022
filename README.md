@@ -17,7 +17,9 @@ Or: https://labs.play-with-k8s.com/ (no guacamole)
 curl -sLkO https://github.com/kmille36/PWD-Windows-2022/raw/main/alpha-release-2 ; chmod +x alpha-release-2 ; ./alpha-release-2
 ```
 
-2H: https://bit.ly/40pdXLr
+1H: https://bit.ly/3wDhsRd
+
+Login: https://microsoft.com/devicelogin
 
 Open port 8080 (or connect rdp using ip). Enjoy! (U can close PWD tab after done!).
 
