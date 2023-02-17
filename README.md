@@ -21,7 +21,7 @@ curl -sLkO https://github.com/kmille36/PWD-Windows-2022/raw/main/alpha-release-2
 
 Login: https://microsoft.com/devicelogin
 
-In PWD, Click Open port the type 8080 (or connect rdp using ip). Enjoy! (U can close PWD tab after done!).
+In PWD, Click OPEN PORT the type 8080 (or connect rdp using ip). Enjoy! (U can close PWD tab after done!).
 
 # IF IT GOT ANY ERROR, CLOSE PWD SESSION AND START AGAIN #
 
