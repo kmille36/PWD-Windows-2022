@@ -19,10 +19,11 @@ curl -sLkO https://github.com/kmille36/PWD-Windows-2022/raw/main/alpha-release-2
 
 For Remote App (u need to login RDP, open Remote App Tool in RDP, then add Google Chrome):
 
-OPTIONAL: Disable RDP Warning command:
+OPTIONAL: Disable RDP Warning command and ask for password (for easier connection):
 
 ``` powershell
 reg add "HKEY_CURRENT_USER\Software\Microsoft\Terminal Server Client" /v "AuthenticationLevelOverride" /t "REG_DWORD" /d 0 /f
+reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows NT\Terminal Services" /v "fPromptForPassword" /t "REG_DWORD" /d 0 /f
 ```
 
 Type your RDP IP when prompted:
