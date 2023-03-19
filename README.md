@@ -1,6 +1,10 @@
 # PWD-Windows-2022
 Under development. Testing purposes.
 
+Video tutorial (Click on image to open Youtube video):
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/vPdvj_0ycDg/0.jpg)](https://youtu.be/vPdvj_0ycDg "MS Learn 1H Remote App Demonstration"
+
 ![image](https://user-images.githubusercontent.com/58414694/216879247-25b55257-1b63-45ab-808f-5bc1320eeb99.png)
 
 Main: https://labs.play-with-docker.com/ (guacamole)
