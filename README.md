@@ -23,7 +23,7 @@ OPTIONAL: Disable RDP Warning command:
 
 ``` powershell
 reg add "HKEY_CURRENT_USER\Software\Microsoft\Terminal Server Client" /v "AuthenticationLevelOverride" /t "REG_DWORD" /d 0 /f
-``` powershell
+```
 
 Type your RDP IP when prompted:
 
