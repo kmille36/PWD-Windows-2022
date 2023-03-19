@@ -29,7 +29,7 @@ reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows NT\Terminal Serv
 Type your RDP IP when prompted:
 
 ``` powershell
-$IP = Read-Host -Prompt 'Input your RDP IP' ; iwr -uri https://github.com/kmille36/PWD-Windows-2022/raw/main/GoogleChrome.rdp -OutFile ./GoogleChrome.rdp -UseBasicParsing -UseDefaultCredentials ; ((GC -path GoogleChrome.rdp -Raw) -replace 'APPIP', $IP) | Set-Content -Path GoogleChrome.rdp ; cmdkey /generic:"Azure" /user:"azureuser" /pass:"WindowsPassword@001" ; mstsc GoogleChrome.rdp
+$IP = Read-Host -Prompt 'Input your RDP IP' ; iwr -uri https://github.com/kmille36/PWD-Windows-2022/raw/main/GoogleChrome.rdp -OutFile ./GoogleChrome.rdp -UseBasicParsing -UseDefaultCredentials ; ((GC -path GoogleChrome.rdp -Raw) -replace 'APPIP', $IP) | Set-Content -Path GoogleChrome.rdp ; cmdkey /generic:"$IP" /user:"azureuser" /pass:"WindowsPassword@001" ; mstsc GoogleChrome.rdp
 ```
 1H: https://bit.ly/3wDhsRd
 
