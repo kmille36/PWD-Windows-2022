@@ -5,3 +5,7 @@ Under development XD
 Unlimited bandwidth
 
 Feel free to DELETE or CLOSE SESSION in PWD when u done
+
+CHANGELOG:
+ - FIX GUACAMOLE ERROR.
+
