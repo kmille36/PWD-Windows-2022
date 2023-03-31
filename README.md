@@ -1,4 +1,7 @@
 # PWD-Windows-2022
+
+NEWS: Try my labs: https://thuonghai2711.tech/pages/labs.html
+
 Under development. Testing purposes.
 
 Video tutorial (Click on image to open Youtube video):
