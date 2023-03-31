@@ -1,6 +1,6 @@
 # PWD-Windows-2022
 
-*NEWS: Try my labs: https://thuonghai2711.tech/pages/labs.html*
+*NEWS: Try my labs: https://thuonghai2711.tech/pages/labs*
 
 Under development. Testing purposes.
 
